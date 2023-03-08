@@ -23,7 +23,7 @@
         tools:ignore="VisualLintTextFieldSize" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/editTextTextPassword2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -33,11 +33,11 @@
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
         android:layout_marginBottom="10dp"
-        android:autofillHints=""
         android:ems="10"
-        android:inputType="textPersonName"
+        android:hint="@string/Password1"
+        android:inputType="textPassword"
         android:minHeight="48dp"
-        android:text="@string/Password"
+        android:autofillHints=""
         tools:ignore="VisualLintTextFieldSize" />
 
     <Button

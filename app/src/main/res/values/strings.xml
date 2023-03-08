@@ -3,4 +3,5 @@
     <string name="Emali">Enter E-mail</string>
     <string name="Password">Enter Password</string>
     <string name="Login">LOGIN</string>
+    <string name="Password1">Enter Password</string>
 </resources>
